@@ -6,8 +6,8 @@ I took the General BMI Info from <a href = "www.wikipedia.org">Wikipedia</a>
 The Classification table is:
 | Category          | BMI range - kg/m2  |
 | ----------------  | ------------------ |
-| Severe Thinness	  | < 16               |
-| Moderate Thinness | Content Cell       |
+| Severe Thinness	  |  < 16              |
+| Moderate Thinness |  16 - 17           |
 | Mild Thinness	    |  17 - 18.5         | 
 | Normal	          |  18.5 - 25         | 
 | Overweight	      |  25 - 30           | 
