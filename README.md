@@ -1,5 +1,4 @@
-# Tic-Tac-Toe
-BMI - Body Mass Index Calculator.
+# BMI - Body Mass Index Calculator.
 
 I took the General BMI Info from <a href = "www.wikipedia.org">Wikipedia</a>
 
