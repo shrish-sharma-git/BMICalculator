@@ -14,9 +14,6 @@ The Classification table is:
 | Obese Class II	  |  35 - 40           |
 | Obese Class III	  |  > 40              | 
 
-## Screenshots
-------- NaN ----------------
-
 ## Information about Built
 * Android Studio
 * Java
